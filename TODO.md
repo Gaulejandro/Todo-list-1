@@ -1,3 +1,13 @@
-vla bla
-bla 
-bla
+#TODO List
+This is the checklist of tasks to make a good readme:
+
+##Making a good readme
+- [] **Project**
+- [] **Description**
+- [] **Getiting Started**
+-   [] **Prerequisites**
+-   [] **Installing**
+- [] **Deployement**
+- [] **Built With**
+- [] **Authors**
+- [] **License**
