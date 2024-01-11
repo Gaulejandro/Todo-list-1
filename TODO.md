@@ -3,11 +3,11 @@ This is the checklist of tasks to make a good readme:
 
 ## Making a good readme
 - [x] **Project**
-- [] **Description**
-- [] **Getiting Started**
--   [] **Prerequisites**
--   [] **Installing**
-- [] **Deployement**
-- [] **Built With**
-- [] **Authors**
-- [] **License**
+- [x] **Description**
+- [x] **Getiting Started**
+-   [x] **Prerequisites**
+-   [x] **Installing**
+- [x] **Deployement**
+- [x] **Built With**
+- [x] **Authors**
+- [x] **License**
